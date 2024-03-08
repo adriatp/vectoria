@@ -1,1 +1,0 @@
-from .vectoria import main
